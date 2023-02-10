@@ -1,0 +1,66 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@500;700&family=Lato:ital,wght@0,900;1,900&family=Lobster&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Bebas Neue",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        },
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "italic",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Lato",
+          "fontStyle": "normal",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Lobster",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  }
+]
